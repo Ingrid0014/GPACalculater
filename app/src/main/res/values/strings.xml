@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GPA Calculate</string>
+    <string name="a1">0</string>
+    <string name="a2">0</string>
+    <string name="a3">0</string>
+    <string name="a4">0</string>
+    <string name="a5">0</string>
+    <string name="b1">0</string>
+    <string name="b2">0</string>
+    <string name="b3">0</string>
+    <string name="b4">0</string>
+    <string name="b5">0</string>
+    <string name="c1">0</string>
+    <string name="c2">0</string>
+    <string name="d1">0</string>
+    <string name="d2">0</string>
+    <string name="total">0</string>
+    <string name="enter">enter to calculate</string>
+    <string name="a">4 point</string>
+    <string name="b">2 point</string>
+    <string name="c">1 point</string>
+    <string name="d">0.5 point</string>
+    <string name="Text">Your Score</string>
+    <string name="as1">Subject 1</string>
+    <string name="as2">Subject 2</string>
+    <string name="as3">Subject 3</string>
+    <string name="as4">Subject 4</string>
+    <string name="as5">Subject 5</string>
+    <string name="final1">Your GPA</string>
+    <string name="final2">back</string>
+    <string name="title2">0</string>
+
+</resources>
